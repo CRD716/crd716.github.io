@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is my (CRD716's) blog.  
+I post the stuff I do, the projects I'm working on.  
+You can also find some things here that are not just mine, but helped by a team.  
+Any projects that have multiple people helping should be credited in the post.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Please find me on the discord.
